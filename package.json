@@ -1,0 +1,18 @@
+{
+  "name": "proto",
+  "version": "0.1.0",
+  "description": "My personal prototyping tool.",
+  "author": "Pete Schaffner <pjschaffner@gmail.com>",
+  "dependencies": {
+    "commander": "^2.2.0",
+    "component-build": "^1.2.0",
+    "component-resolver": "^1.1.1",
+    "connect": "^2.14.3",
+    "connect-livereload": "^0.3.2",
+    "gaze": "^0.5.1",
+    "tiny-lr": "0.0.5"
+  },
+  "bin": {
+    "proto": "./lib/index.js"
+  }
+}

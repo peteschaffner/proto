@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "dependencies": {
+    "necolas/normalize.css": "*",
+    "component/emitter": "*"
+  },
+  "scripts": ["script.js"],
+  "styles": ["style.css"],
+  "locals": ["boot"],
+  "paths": ["lib"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "boot",
+  "dependencies": {
+    "component/upload": "*"
+  }
+}
