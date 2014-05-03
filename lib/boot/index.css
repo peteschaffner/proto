@@ -1,0 +1,11 @@
+* {
+	box-sizing: border-box;
+	-webkit-user-select: none;
+}
+
+body {
+	background: url(checker-pattern.png) black repeat scroll left top;
+	font: 28px/1em "Helvetica";
+	color: #fff;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}

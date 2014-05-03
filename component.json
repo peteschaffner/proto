@@ -1,0 +1,7 @@
+{
+  "name": "proto",
+  "description": "An exploration of ideas.",
+  "version": "0.1.0",
+  "paths": ["lib"],
+  "locals": ["boot"]
+}
